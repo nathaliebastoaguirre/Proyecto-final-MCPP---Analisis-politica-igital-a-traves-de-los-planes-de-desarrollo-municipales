@@ -1,6 +1,3 @@
-# Proyecto-final-MCPP---Analisis-politica-igital-a-traves-de-los-planes-de-desarrollo-municipales
-Trabajo final de la clase MCPP_2016 II
-
 # MCPP_nathalie.basto
 # Analisis de la importancia de la politica TIC en los planes de desarrollo municipales-Noviembre de 2016
 
